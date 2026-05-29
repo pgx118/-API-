@@ -23,7 +23,7 @@
 ### 普通用户首页
 ![普通用户首页](img/2image.png)
 ### 扫码展示
-![输入图片说明](img/21image.png)
+![输入图片说明](img/22image.png)
 ### 可视化统计
 ![可视化统计](img/3image.png)
 
