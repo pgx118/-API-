@@ -5,6 +5,8 @@
 **热门应用场景**：拼多多 · 闲鱼 · 淘宝等电商平台热门项目
 
 ---
+## 使用地址
+https://svipxx.cn/xt/jhm/admin/register.php
 
 ## 联系方式
 
