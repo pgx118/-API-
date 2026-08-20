@@ -33,7 +33,10 @@ https://svipxx.cn/xt/jhm/admin/register.php
 
 ---
 ## 版本更新日志
-
+### v2.2.0 (2026-08)
+![输入图片说明](img/wps1image.png)
+![输入图片说明](img/wps2image.png)
+![输入图片说明](img/wps3image.png)
 ### v2.1.0 (2026-08)
 - **新增**：夸克网盘扫码系统。
 ![输入图片说明](img/kkimage.png)
