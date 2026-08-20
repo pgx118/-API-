@@ -34,10 +34,10 @@ https://svipxx.cn/xt/jhm/admin/register.php
 ---
 ## 版本更新日志
 
-### v2.1.0 (2026-06-4)
+### v2.1.0 (2026-08)
 - **新增**：夸克网盘扫码系统。
-![输入图片说明](img/qk4image.png)
-![输入图片说明](img/qk3image.png)
+![输入图片说明](img/kkimage.png)
+![输入图片说明](img/kk2image.png)
 
 ---
 ## 界面展示
