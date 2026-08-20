@@ -5,8 +5,7 @@
 **热门应用场景**：拼多多 · 闲鱼 · 淘宝等电商平台热门项目
 
 ---
-## 使用地址
-https://svipxx.cn/xt/jhm/admin/register.php
+
 
 ## 联系方式
 
@@ -34,6 +33,7 @@ https://svipxx.cn/xt/jhm/admin/register.php
 ---
 ## 版本更新日志
 ### v2.2.0 (2026-08)
+- **新增**：WPS扫码系统。
 ![输入图片说明](img/wps1image.png)
 ![输入图片说明](img/wps2image.png)
 ![输入图片说明](img/wps3image.png)
