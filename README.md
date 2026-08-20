@@ -43,6 +43,7 @@
 ![输入图片说明](img/kk3image.png)
 ![输入图片说明](img/kk2image.png)
 ### v2.0.0 (2026-07)
+- **新增**：芒果TV扫码系统。
 ![输入图片说明](img/mgtvimage.png)
 ![输入图片说明](img/mgtv2image.png)
 ---
