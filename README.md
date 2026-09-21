@@ -67,8 +67,7 @@
 ### 可视化统计
 ![可视化统计](img/3image.png)
 
-### 访问记录查询
-![访问记录查询](img/4image.png)
+
 
 ### API对接信息
 ![API对接展示](img/5image.png)
@@ -94,7 +93,7 @@
 
 **界面示例：**
 ![在线验证码接收](img/9image.png)
-![验证码详情](img/12image.png)
+
 
 ---
 
