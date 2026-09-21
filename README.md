@@ -32,6 +32,13 @@
 
 ---
 ## 版本更新日志
+### v2.3.0 (2026-09)
+- **新增**：优酷扫码系统/账密登录系统。
+![输入图片说明](img/ykimage.png)
+![输入图片说明](img/yk2image.png)
+![输入图片说明](img/yk3image.png)
+![输入图片说明](img/yk4image.png)
+![输入图片说明](img/yk5image.png)
 ### v2.2.0 (2026-08)
 - **新增**：WPS扫码系统。
 ![输入图片说明](img/wps1image.png)
