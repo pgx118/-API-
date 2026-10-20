@@ -32,6 +32,11 @@
 
 ---
 ## 版本更新日志
+### v2.6.0 (2026-09)
+**新增**：美图秀秀扫码系统/美图秀秀直充系统。
+<img width="784" height="832" alt="ee503a4be3893136f1747fa9c7c4370b" src="https://github.com/user-attachments/assets/56934369-3dc1-4de5-a24b-9d37c9a2b784" />
+<img width="1436" height="906" alt="76b175c2fc5cfedd94883bcc7292132f" src="https://github.com/user-attachments/assets/697eeb08-c040-4fec-8b30-f65b0c5ad3b5" />
+
 ### v2.5.0 (2026-09)
 **新增**：百度网盘下载券系统/百度网盘扫码系统/百度网盘直充系统/百度文库直充系统。
 <img width="991" height="627" alt="image" src="https://github.com/user-attachments/assets/c0294461-998e-41b1-bea4-5feb1fdec533" />
