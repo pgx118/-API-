@@ -34,13 +34,16 @@
 ## 版本更新日志
 ### v2.5.0 (2026-09)
 **新增**：百度网盘下载券系统/百度网盘扫码系统/百度网盘直充系统/百度文库直充系统。
-![输入图片说明](img/bdwpimage.png)
-![输入图片说明](img/bdwp2image.png)
-![输入图片说明](img/img3bdwpimage.png)
+<img width="991" height="627" alt="image" src="https://github.com/user-attachments/assets/c0294461-998e-41b1-bea4-5feb1fdec533" />
+
+<img width="725" height="377" alt="image" src="https://github.com/user-attachments/assets/dcf5cd75-de28-4f0c-8974-57c0fad282a1" />
+<img width="1018" height="607" alt="image" src="https://github.com/user-attachments/assets/528c5f03-613a-40d0-bb72-d5674c1c4273" />
+
 ### v2.4.0 (2026-09)
  **新增**：爱奇艺扫码系统/账密登录系统/直充系统/支持电脑/网页/TV电视端扫码登录!。
-![输入图片说明](img/aqy2image.png)
-![输入图片说明](img/aqyimage.png)
+<img width="716" height="702" alt="image" src="https://github.com/user-attachments/assets/8ebf52bc-ac2d-448e-8c01-bf716ccbe413" />
+<img width="1632" height="617" alt="image" src="https://github.com/user-attachments/assets/159e0d2a-d0f2-464b-9b73-0142d1f50517" />
+
 ### v2.3.0 (2026-09)
  **新增**：优酷扫码系统/账密登录系统。
 ![输入图片说明](4image.png)
